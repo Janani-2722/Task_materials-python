@@ -1,0 +1,69 @@
+Types of data:
+1. Quantitative Data Use cases:
+- Human Resources Analytics: Data analysis predicts employee turnover, optimizes recruitment, and improves workforce performance.
+- Annual Income and Sales Analysis: Annual income data and sales figures determine purchasing power, market demand, and pricing decisions for products and services.
+- Website Analytics: Quantitative data measures visits, conversion rates, bounce rates, and user actions, improving marketing effectiveness and user experience.
+- Customer Satisfaction Surveys: Numerical survey results help companies track and enhance customer experience, informing service improvements.
+- Market Segmentation: Companies apply quantitative methods to identify distinct customer groups and tailor marketing strategies accordingly.
+- Clinical Trials and Patient Outcomes: Quantitative data tracks patient responses, disease progression, and treatment efficacy, guiding evidence-based medical care.
+- Epidemiological Analysis: Researchers quantify disease spread and determine interventions through statistical modeling.
+- Real-time Data Analytics: Businesses analyze streaming data for immediate insights, fraud detection, and system optimization.
+- Supply Chain Optimization: Quantitative models allocate resources, plan inventory, and minimize costs, boosting operational efficiency.
+- Application Usage and Performance: Quantitative tracking of daily active users, uptime, error rates, and feature engagement powers technology assessments and improvements.
+
+Type of Quantitative Data:
+Discrete Quantitative Data Use Cases:
+1. Number of employees in a company or department
+2. Ticket sales count for an event or service
+3. Number of product reviews received over a period
+4. Number of new clients or customers gained
+5. Counting website visitors or daily active users
+6. Social media engagements: number of likes, shares, comments
+7. Number of clicks on links or advertisements
+8. Counting the number of items in stock
+9. Number of transactions, such as bank transactions or sales
+10. Number of defects or errors recorded in quality control
+
+Continuous Quantitative Data Use Cases:
+1. Financial metrics like annual income, revenue, or sales figures measured precisely with decimals
+2. Customer satisfaction scores or survey responses recorded on continuous scales
+3. Conversion rates, churn rates, average revenue per user (ARPU), and bounce rates expressed as percentages or rates
+4. Time measurements spent on activities such as website usage duration or average call duration
+5. Measurements related to supply chain such as weight, size, or volume of inventory items
+6. Clinical trial metrics such as blood pressure, dosage amounts, or patient vital signs
+7. Epidemiological rates such as disease spread percentages or infection rates
+8. Network bandwidth usage or stock price fluctuations measured continuously over time
+9. Real-time system performance metrics like error rates or latency in digital services
+
+2. Qualitative Data Use Cases:
+- Customer Feedback Analysis: Gathering open-ended feedback from emails, support tickets, and reviews to identify pain points and improve products and services.
+- Case Studies: Detailed examination of specific customer journeys, campaigns, or events to understand success factors, challenges, and lessons learned.
+- In-depth Interviews: One-on-one conversations with customers, users, or stakeholders to explore their experiences, preferences, and perspectives deeply.
+- Focus Groups: Group discussions used for market research to capture a variety of opinions, uncover themes, and explore group dynamics around products or services.
+- Narrative Analysis: Analyzing stories and experiences shared by customers or employees to derive strategic business insights and enhance brand messaging.
+- Customer Diaries or Journals: Capturing ongoing user experiences over time to monitor engagement and evolution of attitudes.
+- Audio Recordings: Using recorded customer service calls or interviews to interpret emotional tones and verbal nuances that enrich data understanding.
+- Open-ended Surveys: Collecting descriptive answers to better understand attitudes, behaviors, and motivations behind quantitative responses.
+- Product Development Feedback: Qualitative insights from user testing or beta programs help improve usability, design, and user experience.
+- Brand Messaging Refinement: Listening to customer language and sentiment to craft authentic marketing messages that resonate.
+
+Types of Qualitative Use Cases:
+Nominal Qualitative Data Use Cases:
+1. Customer feedback classification by sentiment type (e.g., positive, negative, neutral)
+2. Grouping interview responses by topic or theme (e.g., product quality, customer service)
+3. Categorizing open-ended survey answers by product features mentioned
+4. Segmenting focus group participants by demographic groups (e.g., gender, location)
+5. Classifying customer support issues by type (e.g., billing, technical, account)
+6. Organizing brand messaging keywords or phrases without ranking
+7. Sorting audio recordings by conversation topics or caller types
+8. Grouping narrative analysis into distinct story types or customer personas
+
+Ordinal Qualitative Data Use Cases:
+1. Customer satisfaction ratings captured in interviews or surveys with rankings like “very satisfied,” “satisfied,” “neutral,” “dissatisfied”
+2. Ranking user preferences or feature importance during focus groups or product testing
+3. Ordered thematic coding of open-ended responses (e.g., high concern, medium concern, low concern)
+4. Categorizing customer experience levels (e.g., novice, intermediate, expert) based on feedback transcripts
+5. Prioritizing pain points or improvement areas derived from qualitative analysis according to severity or frequency
+6. Ranking brand sentiment on scales such as “strongly agree” to “strongly disagree” in open-ended narratives
+7. Ordered customer loyalty descriptions (e.g., first-time, repeat, loyal) from qualitative customer stories
+
